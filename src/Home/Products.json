@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "img": "images/products/pro1.jpg",
+      "title": "VARIABLE PRODUCT",
+      "price": "320",
+      "category": "HOME DECOR",
+      "color":"black"
+    },
+    {
+      "id": 2,
+      "img": "/images/products/pro2.jpg",
+      "title": "DECORATIVE MIRROR",
+      "price": "79.99",
+      "category": "HOME DECOR",
+      "color":"black"
+    },
+    {
+      "id": 3,
+      "img": "/images/products/pro3.jpg",
+      "title": "CANVAS WALL ART",
+      "price": "29.99",
+      "category": "HOME DECOR",
+      "color":"brown"
+    },
+    {
+      "id": 4,
+      "img": "/images/products/pro4.jpg",
+      "title": "LED TABLE LAMP",
+      "price": "240",
+      "category": "LIGHTING",
+      "color":"brown"
+    },
+    {
+      "id": 5,
+      "img": "/images/products/pro5.jpg",
+      "title": "HANGING PENDANT LIGHT",
+      "price": "290",
+      "category": "LIGHTING",
+      "color":"gold"
+    },
+    {
+      "id": 6,
+      "img": "/images/products/pro6.jpg",
+      "title": "FLOOR STANDING LAMP",
+      "price": "129.99",
+      "category": "LIGHTING",
+      "color":"gold"
+    },
+    {
+      "id": 7,
+      "img": "/images/products/pro7.jpg",
+      "title": "CERAMIC FIGURINE",
+      "price": "19.99",
+      "category": "DECORATION",
+      "color":"rose"
+    },
+    {
+      "id": 8,
+      "img": "/images/products/pro8.jpg",
+      "title": "HANDMADE SCULPTURE",
+      "price": "34.99",
+      "category": "DECORATION",
+      "color":"rose"
+    },
+    {
+      "id": 9,
+      "img": "/images/products/pro9.jpg",
+      "title": "ARTIFICIAL PLANT",
+      "price": "24.99",
+      "category": "DECORATION",
+      "color":"white"
+    },
+    {
+      "id": 10,
+      "img": "/images/products/pro10.jpg",
+      "title": "GLASS FLOWER VASE",
+      "price": "170",
+      "category": "VASES",
+      "color":"white"
+    },
+    {
+      "id": 11,
+      "img": "/images/products/pro9.jpg",
+      "title": "CERAMIC VASE SET",
+      "price": "49.99",
+      "category": "VASES",
+      "color":"grey"
+    },
+    {
+      "id": 12,
+      "img": "/images/products/pro9.jpg",
+      "title": "MINIMALIST STONE VASE",
+      "price": "39.99",
+      "category": "VASES",
+      "color":"grey"
+    },
+    {
+      "id": 13,
+      "img": "/images/products/pro7.jpg",
+      "title": "COTTON CUSHION COVER",
+      "price": "15.99",
+      "category": "BASICS"
+    },
+    {
+      "id": 14,
+      "img": "/images/products/pro6.jpg",
+      "title": "SOFT THROW BLANKET",
+      "price": "59.99",
+      "category": "BASICS"
+    },
+    {
+      "id": 15,
+      "img": "/images/products/pro5.jpg",
+      "title": "STORAGE BASKET SET",
+      "price": "160",
+      "category": "BASICS"
+    }
+  ]
+  
